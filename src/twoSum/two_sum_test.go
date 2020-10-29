@@ -1,4 +1,4 @@
-package src
+package twoSum
 
 import (
 	"github.com/magiconair/properties/assert"
