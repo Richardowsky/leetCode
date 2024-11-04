@@ -1,5 +1,4 @@
-# LeetCode Problems
-
+# LeetCode Tasks
 ## Prerequisites:
 You need to install - [go 1.13](https://golang.org/dl/)
 
